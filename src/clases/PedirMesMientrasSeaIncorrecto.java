@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class PedirMesMientrasSeaIncorrecto {
 	public static void main(String args[]) {
 		Scanner sc = new Scanner(System.in);
-		
+		// Declaro la variable String
 		String sMes = "";
 		boolean mesCorrecto; 
 		do {
