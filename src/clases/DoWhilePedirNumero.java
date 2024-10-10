@@ -9,7 +9,8 @@ public class DoWhilePedirNumero {
 		
 		int numero;
 		int contador = 0; 
-		int suma = 0; 
+		int suma = 0;
+		// Hago un do while
 		do {
 			System.out.println("Número: ");
 			numero = sc.nextInt();
